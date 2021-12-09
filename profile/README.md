@@ -1,10 +1,9 @@
-<html>
+👋 Hello Lovely Folks 👋 
 
-<a href="https://twitter.com/surajincloud?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Check out our 🎥[YouTube](https://youtube.com/channel/UCNkC3jdTvcTaypNE431BR1w?sub_confirmation=1)🎥 channel for more exciting Videos, Tutorials, etc.
 
+Subscribe to our 📧 [Newsletter](https://www.getrevue.co/profile/surajincloud)📧 to get interesting stuff straight to your inbox.
 
-<script src="https://apis.google.com/js/platform.js"></script>
+More stuff: https://linktr.ee/surajincloud
 
-<div class="g-ytsubscribe" data-channelid="UCNkC3jdTvcTaypNE431BR1w" data-layout="default" data-count="default"></div>
-
-</html>
+❣️ Have a Lovely Day ❣️
